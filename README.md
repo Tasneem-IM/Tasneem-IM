@@ -1,4 +1,3 @@
-# Welcome to my Profile
 
 ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=e1c3f3&height=300&section=header&text=Hi,%20It's%20Tasneem%20Mosameh!%20%F0%9F%8D%80&fontSize=45&colorA=f2e4f9&colorB=f2e4f9&width=1000&fontColor=ffffff)
 
