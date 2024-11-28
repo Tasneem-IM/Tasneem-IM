@@ -25,12 +25,11 @@
     </ul>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tasneem-IM&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="350" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tasneem-IM&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
 </div>
 
 ###
-
 ![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=e1c3f3&height=150&section=footer&text=Stay%20Curious%20%F0%9F%91%8B&fontSize=30&colorA=f2e4f9&colorB=f2e4f9&width=1000&fontColor=ffffff)
 
 
