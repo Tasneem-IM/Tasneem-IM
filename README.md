@@ -14,6 +14,9 @@
     <img src="java-logo.png" width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">Java</span>
     <img src="ddddd.png"width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">HTML</span>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">CSS</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SQL_logo.svg" width="30px" height="30px">
+<span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">SQL</span>
+
 </div>
 
 ## 📬 Contact Information
