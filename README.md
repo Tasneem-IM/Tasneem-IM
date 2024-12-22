@@ -7,27 +7,25 @@
     <p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; color: #48036d;">🎓 Palestine Technical University – <strong>𝐊𝐚𝐝𝐨𝐨𝐫𝐢𝐞</strong></p>
     <p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; color: #48036d;">🌱 Striving for excellence and growth in the tech world!</p>
 </div>
- 
-## 🛠️ Programming Skills
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+ <br>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <h2 style="font-family: 'Poppins', sans-serif; color:#dd9dff;"><strong> 🛠️ Programming Skills</strong></h2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">C++</span>
     <img src="java-logo.png" width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">Java</span>
     <img src="ddddd.png"width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">HTML</span>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">CSS</span>
     <img src="database.png" width="30px" height="30px">
 <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">SQL</span>
-
 </div>
 
-## 📬 Contact Information
-<div style="background-color: #f2e4f9; padding: 10px; border-radius: 10px;">
-    <ul>
+<br><br>
+<div align="center" style="background-color: #f2e4f9; padding: 10px; border-radius: 10px;">
+        <h2 style="font-family: 'Poppins', sans-serif; color:#dd9dff;"><strong> 📬 Contact Information</strong></h2>
         <li style="font-family: 'Poppins', sans-serif;"><strong>Email:</strong> <a href="mailto:tasneemmosameh@gmail.com" style="color: #af36f1;">tasneemmosameh@gmail.com</a></li>
         <li style="font-family: 'Poppins', sans-serif;"><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tasneem-mosameh-6b8702323/" style="color: #af36f1;">linkedin.com/in/tasneem-mosameh</a></li>
         <li style="font-family: 'Poppins', sans-serif;"><strong>Codeforces:</strong> <a href="https://codeforces.com/profile/mewaw88" style="color: #af36f1;">codeforces.com/profile/tasneem</a></li>
-    </ul>
 </div>
-
+<br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tasneem-IM&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=2" height="260" alt="languages graph"  />
 </div>
