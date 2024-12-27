@@ -6,7 +6,7 @@
     <p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; color: #48036d;">🎓 Palestine Technical University – <strong>𝐊𝐚𝐝𝐨𝐨𝐫𝐢𝐞</strong></p>
     <p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; color: #48036d;">🌱 Striving for excellence and growth in the tech world!</p>
 </div>
- <br>
+ <br> 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <h2 style="font-family: 'Poppins', sans-serif; color:#dd9dff;"><strong> 🛠️ Programming Skills</strong></h2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">C++</span>
