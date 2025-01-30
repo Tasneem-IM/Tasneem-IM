@@ -13,9 +13,9 @@
     <img src="java-logo.png" width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">Java</span>
     <img src="ddddd.png"width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">HTML</span>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">CSS</span>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">JAVASCRIPT</span>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">JavaScript</span>
         <img src="database.png"width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">SQL</span>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">PYTHON</span>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"width="30px" height="30px"> <span style="background-color:#f1d7ff; padding: 5px 10px; border-radius: 10px; font-family: 'Poppins', sans-serif;">Python</span>
 <div align="left">
 
 
