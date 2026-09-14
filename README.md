@@ -1,4 +1,4 @@
-![Header Image](https://capsule-render.vercel.app/api?type=waving&color=e1c3f3&height=300&section=header&text=Wellcome%20To%20Tasneem's%20GitHub!&fontSize=45&colorA=f2e4f9&colorB=f2e4f9&width=1000&fontColor=ffffff)l
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=e1c3f3&height=300&section=header&text=Welcome%20To%20Tasneem's%20GitHub!&fontSize=45&colorA=f2e4f9&colorB=f2e4f9&width=1000&fontColor=ffffff)l
                             
 <div align="center"> 
     <h2 style="font-family: 'Poppins', sans-serif; color:#dd9dff;">Computer Systems Engineering</h2>
